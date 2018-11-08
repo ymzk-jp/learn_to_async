@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\scripts/callback_test4.js"
+            "program": "${workspaceFolder}\\scripts/scope_test2.js"
         }
     ]
 }
