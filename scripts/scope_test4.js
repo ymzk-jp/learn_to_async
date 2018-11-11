@@ -25,3 +25,4 @@ C:\Users\ymzk-jp\Documents\learn_to_async\scripts\scope_test4.js:14
 ReferenceError: ans is not defined
  */
 // let,constで定義された変数はfor文を貫通できない
+// let,constで定義された変数はローカル変数として定義される
